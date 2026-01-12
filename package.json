@@ -1,0 +1,25 @@
+{
+  "name": "novagokula",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "@nuxt/content": "^3.10.0",
+    "@primeuix/themes": "^2.0.2",
+    "@tailwindcss/vite": "^4.1.18",
+    "better-sqlite3": "^12.5.0",
+    "nuxt": "^4.2.2",
+    "primevue": "^4.5.4",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.5.4",
+    "@types/node": "^25.0.6"
+  }
+}
