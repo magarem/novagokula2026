@@ -1,0 +1,274 @@
+{
+  "data": {
+    "title": "Mahamantra",
+    "description": "As Glórias da Recitação Constante do Maha-Mantra Hare Krishna: Um Caminho para a Elevação Espiritual.",
+    "images": [
+      "/images/1732755308841.451.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "As Glórias da Recitação Constante do Maha-Mantra Hare Krishna: Um Caminho para a Elevação Espiritual."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Explore conosco as magníficas glórias que se desdobram quando mergulhamos na prática contínua da recitação do Maha-Mantra Hare Krishna. Este mantra, repleto de significado espiritual profundo, não é apenas uma sequência de palavras, mas uma porta de entrada para uma experiência transformadora e um caminho para a elevação espiritual. Vamos contemplar as grandiosas realizações daqueles que dedicam seus corações a esse sublime mantrar."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A palavra \"mantra\" tem origem na língua sânscrita, conhecida também como “devanagari” ou a “língua dos deuses”, e é uma combinação de duas palavras: \"manas,\" que significa \"mente,\" e \"tra,\" que significa \"instrumento\" ou \"libertação.\" Portanto, literalmente, \"mantra\" pode ser traduzido como \"instrumento da mente\" ou \"libertação da mente.\""
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Na prática espiritual, um mantra é uma sequência de palavras, sílabas ou sons que é repetida, tradicionalmente em meditação ou adoração, como uma ferramenta para focar a mente e alcançar um estado de clareza, concentração ou conexão espiritual. Mantras podem ter significados específicos, ou podem ser sons sagrados cuja vibração é considerada intrinsecamente poderosa e transformadora. Como o caso do mantra “OM”, considerado como a frequência tonal que mantém o universo coeso e funcional. O verbo primordial."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O Maha-Mantra Hare Krishna, por exemplo, é o conhecido mantra na tradição vaishnava, composto pelas palavras \"Hare,\" \"Krishna,\" e \"Rama.\" A repetição dessas palavras é considerada uma prática espiritual que pode levar à elevação da consciência e à conexão com o divino e você pode entoar agora:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "HARE KRISHNA HARE KRISHNA"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nKRISHNA KRISHNA HARE HARE"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nHARE RAMA HARE RAMA"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nRAMA RAMA HARE HARE"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A tradução aproximada e o significado dos componentes do mantra são os seguintes:\nHare: Refere-se a “Radha”, que é considerada a energia espiritual de Krishna. Um vocativo onde se recorre a atenção do supremo;\nKrishna: “O Todo Atrativo”, especialmente associado a natureza de Deus na forma de um pastor de almas divino.\nRama: significa prazer, fortuna, êxtase, “ananda”, em sânscrito. Termo superlativo para toda a felicidade que se possa pretender.\nAssim, ao entoar o Maha Mantra Hare Krishna, os devotos estão essencialmente chamando pela misericórdia divina, expressando devoção e buscando uma conexão mais profunda com Deus. A prática regular da repetição do Maha Mantra é considerada uma forma eficaz de desenvolver espiritualidade, purificar a mente e avançar no caminho do Bhakti Yoga, que é o caminho da devoção. Essa prática é central na tradição Hare Krishna e é frequentemente realizada individualmente ou em grupo como uma forma de meditação e adoração."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O que você adquire?"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "ol",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Paz interior e serenidade;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Conexão profunda com o divino;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Purificação do coração e despertar espiritual;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Proteção contra influências negativas;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Desenvolvimento da consciência de krishna;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Expressão de amor e devoção;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Comunidade vibrante e unida;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Transformação pessoal com efeito universal;"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Como iniciar sua jornada com o Maha-Mantra Hare Krishna?"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nConvidamos todos a se unirem a nós nesta jornada de transformação espiritual. Comece a recitar o Maha-Mantra Hare Krishna com devoção e veja as glórias divinas se desdobrarem em sua vida.\nJuntos, construímos uma sinfonia espiritual que ressoa com amor, serviço e compaixão!"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Todos os dias às 5h da manhã, na Fazenda Nova Gokula, os devotos reúnem-se no templo para a pratica da Japa ou o cantar do mahamantra Hare Krishna e você está convidado para vir praticar. Nada é requerido a não ser disposição e humildade. Os devotos irão te orientar."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:sobre:mahamantra.md",
+  "_path": "/sobre/mahamantra"
+}

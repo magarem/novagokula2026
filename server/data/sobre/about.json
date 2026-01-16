@@ -1,0 +1,109 @@
+{
+  "data": {
+    "title": "Fazenda Nova Gokula",
+    "description": "11-22-33A Fazenda Nova Gokula pertence à ISKCON (Sociedade Internacional para Consciência de Krishna) e integra o circuito turístico da Serra da Mantiqueira, no Vale do Paraíba, ocupando uma área de 119,5 hectares, um privilegiado espaço de terra na APA (Área de Proteção Ambiental) da Mantiqueira, unidade de conservação do governo federal. É um bioma com nascentes de água e grande diversidade de fauna e flora.",
+    "topimages": [
+      "/images/1706107380465.4895.jpg"
+    ],
+    "images": []
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "11-22-33A Fazenda Nova Gokula pertence à ISKCON (Sociedade Internacional para Consciência de Krishna) e integra o circuito turístico da Serra da Mantiqueira, no Vale do Paraíba, ocupando uma área de 119,5 hectares, um privilegiado espaço de terra na APA (Área de Proteção Ambiental) da Mantiqueira, unidade de conservação do governo federal. É um bioma com nascentes de água e grande diversidade de fauna e flora."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Desde sua aquisição, já recuperou mais de 50% da vegetação nativa de sua área. É um verdadeiro santuário e patrimônio da diversidade brasileira, qualificando-se para a implantação da área de soltura e monitoramento de animais silvestres, a ONG MATER "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://mater.org.br/.org",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "mater.org.br"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": ",  homologada há mais de 10 anos pelo IBAMA e SMA-SP (Secretaria de Meio-ambiente de SP)."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Além de um estilo de vida que corrobora a disciplina requerida para o estudo e prática da espiritualidade, a comunidade exibe o maior templo em estilo védico do continente sul americano, com sua sóbria arquitetura clássica indiana. Recebe a visita de mais de 15 mil pessoas por ano, entre turistas, estudantes e peregrinos, e abriga cerca de 80 membros que trabalham para o desenvolvimento da comunidade."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Entre os atrativos, destacam-se a caminhada ecológica e o birdwatching em meio a jardins de admirável fauna e flora silvestres e banho de rio em águas cristalinas. Nos restaurantes e lanchonetes saboreiam-se as iguarias do cardápio vegetariano e vegano, como a tradicional coxinha de carne de jaca. As lojas do mini shopping expõem variadas opções de vestuário, artigos, artesanatos e decoração."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Para quem busca refúgio e equilíbrio, Nova Gokula oferece retiro espiritual em clima monástico com programas no templo e meditação com mantras, hospedagem em aprazível ambiente natural, além de atendimentos em terapias ayurvédicas, trilhas ecológicas, aulas de yoga, massagens, workshops e cursos diversos."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Nova Gokula também oferece um calendário anual cheio de festividades que incluem palestras, performances de música, dança, teatro e grandes banquetes gratuitos para toda a sociedade."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:sobre:about.md",
+  "_path": "/sobre/about"
+}

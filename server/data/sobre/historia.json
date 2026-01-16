@@ -1,0 +1,292 @@
+{
+  "data": {
+    "title": "Nossa História",
+    "description": "O movimento Hare Krishna, oficialmente conhecido como ISKCON - Sociedade Internacional para a Consciência de Krishna, foi fundado por A.C. Bhaktivedanta Swami Prabhupada em 1966, nos Estados Unidos. Seus seguidores praticam os ensinamentos da Bhagavad-gita (mais conhecida como a bíblia hindú) e adoram Krishna como a Suprema Personalidade de Deus. O movimento é conhecido por sua abordagem devocional intensa, a Bhakti-yoga, incluindo a prática do canto do mantra Hare Krishna como sua meditação e a distribuição de livros, tendo na literatura a sua principal contribuição para o patrimônio cultural e espiritual da humanidade.",
+    "images": [
+      "/images/novagokula.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O movimento Hare Krishna, oficialmente conhecido como ISKCON - Sociedade Internacional para a Consciência de Krishna, foi fundado por A.C. Bhaktivedanta Swami Prabhupada em 1966, nos Estados Unidos. Seus seguidores praticam os ensinamentos da Bhagavad-gita (mais conhecida como a bíblia hindú) e adoram Krishna como a Suprema Personalidade de Deus. O movimento é conhecido por sua abordagem devocional intensa, a Bhakti-yoga, incluindo a prática do canto do mantra Hare Krishna como sua meditação e a distribuição de livros, tendo na literatura a sua principal contribuição para o patrimônio cultural e espiritual da humanidade."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Comunidades Hare Krishna como a Fazenda  Nova Gokula, tem sua existência baseada nos princípios espirituais apregoados pela sua filosofia de vida, assim como pelo propósito de fornecer um ambiente onde os membros possam associar-se dedicando-se à prática espiritual (sadhana-bhakti) através da adoração às Deidades do altar, do estudo das escrituras sagradas e do recitar do Mahamantra Hare Krishna, promovendo, deste modo, a vida em comunidade."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O nascimento da Fazenda Nova Gokula está profundamente ligado à expansão do movimento Hare Krishna (ISKCON) no Brasil. Fundada na década de 1970, ela se tornou o maior centro rural da ISKCON na América Latina e um dos mais importantes do mundo. Aqui vai um resumo de como tudo começou:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Origem e Fundação:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A Fazenda Nova Gokula foi fundada em 1978, na cidade de Pindamonhangaba (SP), no interior de São Paulo."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O local foi escolhido por suas características naturais: terras férteis, montanhas, rios e muito verde — ideal para o estilo de vida simples e espiritual dos devotos."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "“Gokula” significa \"Casa das Vacas\" (Go - vaca, Kula - casa). É uma referência a morada espiritual de Krishna, \"Goloka Vrindavana\", sendo Nova Gokula, a versão ocidental da vila Gokula na Índia, onde o Senhor Krishna passou sua infância, cercado por vaqueiros, natureza e devoção."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Ligação com Srila Prabhupada:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A.C. Bhaktivedanta Swami Prabhupada, fundador da ISKCON, nunca esteve no Brasil, mas incentivava a criação de comunidades agrícolas autossustentáveis."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Inspirados por suas instruções, os primeiros devotos brasileiros buscaram seguir esse modelo védico de vida no campo, centrado em Krishna."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Objetivos da comunidade:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Viver de forma simples, com pensando elevado – seguindo o estilo de vida védico, com agricultura, proteção às vacas e vida espiritual;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Autossustentabilidade – plantio próprio, produção de leite, alimentação vegetariana;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Educação espiritual – ensinar os princípios da consciência de Krishna através de cursos, festivais e práticas devocionais."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Serviço devocional comunitário – templo central, canto de mantras, oferendas a Krishna, seguindo calendário de festivais litúrgicos;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Proteção às vacas - um dos grandes pilares da Nova Gokula é o go-seva (serviço às vacas). Elas são cuidadas com carinho e nunca são exploradas ou abatidas. O leite que produzem é usado para preparar pratos oferecidos a Krishna, de forma respeitosa e espiritualizada."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Importância atual da Fazenda Nova Gokula:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "É um polo de turismo espiritual;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Recebe milhares de visitantes todos os anos;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Oferece retiros, cursos de yoga, meditação, filosofia védica, e festivais culturais;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "É exemplo prático de vida em harmonia com a natureza e os princípios espirituais."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O documentário abaixo vem, de forma simples, apresentar como se deu o nascimento de Nova Gokula (a partir do minuto 4h20 do vídeo):"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "iframe",
+        "props": {
+          "width": "100%",
+          "height": 315,
+          "src": "https://www.youtube.com/embed/MUp9oJ2PB1Y?si=2iOD404odD5_vRY3",
+          "title": "YouTube video player",
+          "frameBorder": "0",
+          "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+          "allowFullScreen": true
+        },
+        "children": []
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:sobre:historia.md",
+  "_path": "/sobre/historia"
+}

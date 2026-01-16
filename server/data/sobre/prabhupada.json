@@ -1,0 +1,279 @@
+{
+  "data": {
+    "title": "Swami Prabhupada",
+    "description": "\"Um Santo no Século XX\"",
+    "topimage": "",
+    "images": [
+      "/images/prabhupada.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "\"Um Santo no Século XX\""
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "É com grande reverência que apresentamos um resumo da vida inspiradora e ensinamentos transformadores de A.C. Bhaktivedanta Swami Prabhupada, ou simplesmente, Srila Prabhupada, o mestre fundador da Sociedade Internacional para a Consciência de Krishna (ISKCON)."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "É o trigésimo segundo (na atual era) de uma sucessão discipular de mestres que remontam ao Senhor Brahma, o ser vivo primordial, conhecido com o criador do universo material. Desta forma, é o representante fidedigno do conhecimento propagado pela porção Bhaktivedanta dos Vedas. Escola que versa sobre a bhakti-yoga ou amor devocional ao supremo."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A Jornada Espiritual de Srila Prabhupada:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nA.C. Bhaktivedanta Swami Prabhupada nasceu em 1896, em Calcutá, Índia, mergulhando desde cedo nas práticas devocionais da tradição Gaudiya Vaishnava. Sua profunda dedicação à busca espiritual levou-o a aceitar a missão de espalhar a consciência de Krishna em todo o mundo."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A Chegada ao Ocidente:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nCom uma missão audaciosa, Srila Prabhupada chegou aos Estados Unidos em 1965, com poucos recursos materiais (cerca de 7 dólares no bolso e alguns exemplares de livros traduzidos por ele para o inglês). Ele começou seu trabalho ensinando o Bhagavad-Gita e outros textos importantes, atraindo assim seguidores e semeando as bases da ISKCON."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Fundação da ISKCON:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nSrila Prabhupada fundou a ISKCON em 1966, em Nova York, e ao longo dos anos, espalhou-se para todos os cantos do mundo. Seu compromisso era criar uma comunidade global baseada nos princípios da consciência de Krishna, promovendo o serviço devocional imotivado como prática espiritual."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Traduções e Comentários Iluminados:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nUm dos legados mais duradouros de Srila Prabhupada são suas traduções e comentários sobre os textos sagrados. Ele traduziu com maestria obras como o Bhagavad Gita e o Srimad Bhagavatam, tornando a sabedoria antiga acessível a pessoas de todas as culturas e backgrounds."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Iniciação de Discípulos:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nSrila Prabhupada iniciou milhares de discípulos ao redor do mundo, guiando-os no caminho da devoção, desapego e serviço altruísta. Seus discípulos tornaram-se embaixadores da consciência de Krishna (como Hridayananda Das Goswami - Srila Acharyadeva, fundador de Nova Gokula), compartilhando os ensinamentos e continuando o trabalho visionário de seu mestre predecessor Bhaktisiddhanta Sarasvati Thakura Maharaj."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Legado e Continuidade:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nApesar de deixar seu corpo físico em 1977, o legado de Srila Prabhupada permanece vivo em Nova Gokula. Seus ensinamentos continuam a inspirar milhões de pessoas em todo o mundo a buscar uma vida de significado espiritual e amor devocional em serviço a Krishna."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Como Honrar o Legado de Srila Prabhupada?"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nSua participação é essencial para continuar a missão de Srila Prabhupada. Você pode contribuir participando de nossos programas, praticando a consciência de Krishna no seu dia a dia e apoiando nossos projetos dedicados a espalhar a filosofia da Bhakti-yoga (conexão com Deus através do serviço devocional abnegado)."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Venha nos visitar!"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Você pode adquirir o livro sobre sua vida e obra através deste link:\n"
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://www.sankirtana.com.br/br/produto/2759/prabhupada-um-santo-no-seculo-xx/34/",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.sankirtana.com.br/br/produto/2759/prabhupada-um-santo-no-seculo-xx/34/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Veja o filme sobre a ISKCON: \"Hare Krishna - 50 Anos de Serviço e Alegria\" - Legendado:\n"
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://www.youtube.com/watch?v=7Tz63G-T8Kw&t=13s",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.youtube.com/watch?v=7Tz63G-T8Kw&t=13s"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Veja o filme sobre Srila Prabhupada: \"Hare Krishna - O Mantra, O Movimento e o Swami que Iniciou Tudo\": disponível para assinantes da \"Prime Vídeo\"."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:sobre:prabhupada.md",
+  "_path": "/sobre/prabhupada"
+}

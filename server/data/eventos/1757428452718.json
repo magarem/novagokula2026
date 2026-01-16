@@ -1,0 +1,176 @@
+{
+  "data": {
+    "title": "DOMINGO É DIA DE CUIDAR DE VOCÊ!",
+    "description": "Venha participar da Aula de Yoga no Solar Subhadra com Shri Damodara (Praticante há 20 anos, estudante no Yogin Academy,professora de Yoga no CAPS II). ✨ Porque experiências libertadoras merecem estar na sua rotina.",
+    "topimage": null,
+    "images": [
+      "/images/1757428480938.5894.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "🧘‍♀️ Venha participar da Aula de Yoga no Solar Subhadra com Shri Damodara (Praticante há 20 anos, estudante no Yogin Academy,professora de Yoga no CAPS II)."
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n✨ Porque experiências libertadoras merecem estar na sua rotina."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "📍 Local: Solar Subhadra"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n📆 Horário: Todos os domingos, das 6h às 7h"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n💰 Valor: R$ 60,00 por aula"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n📞 Para participar, entre em contato: (12) 98288-0991 – Shri Damodara"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Comece a manhã com leveza. Desperte corpo, mente e alma."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "🕉️ Após a aula, você poderá:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "blockquote",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Participar do \"Programa de Domingo\" a partir das 7h30 no Templo da Fazenda Nova Gokula — uma imersão espiritual com meditação, mantras e sabedoria védica;"
+              },
+              {
+                "type": "element",
+                "tag": "br",
+                "props": {},
+                "children": []
+              },
+              {
+                "type": "text",
+                "value": "\nTerapias revitalizantes com Yajna Renata (massoterapeuta, reikiana e terapeuta ayurvédica) agendando pelo whatsapp: 12 99789-1805;"
+              },
+              {
+                "type": "element",
+                "tag": "br",
+                "props": {},
+                "children": []
+              },
+              {
+                "type": "text",
+                "value": "\nVivenciar a natureza exuberante de Nova Gokula com rio com águas cristalinas, fauna e flora;"
+              },
+              {
+                "type": "element",
+                "tag": "br",
+                "props": {},
+                "children": []
+              },
+              {
+                "type": "text",
+                "value": "\nVisitar o mini-shopping com presentes, moda e artesanato;"
+              },
+              {
+                "type": "element",
+                "tag": "br",
+                "props": {},
+                "children": []
+              },
+              {
+                "type": "text",
+                "value": "\nAlmoçar em nossos restaurantes com um toque da culinária indiana;"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Fazenda Nova Gokula:\nEstrada Abílio José de Almeida S/N – Ribeirão Grande – Pindamonhangaba-SP."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:eventos:1757428452718.md",
+  "_path": "/eventos/1757428452718"
+}

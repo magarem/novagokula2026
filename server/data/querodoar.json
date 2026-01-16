@@ -1,0 +1,255 @@
+{
+  "data": {
+    "title": "Doação",
+    "description": "\"Os atos de caridade purificam até grandes almas\" (Bhagavad Gita 18,05)",
+    "topimages": [
+      "/images/1726668894565.1936.jpg"
+    ],
+    "images": [
+      "/images/1730642005650.4648.jpg",
+      "/images/1730642029866.2148.jpg",
+      "/images/1730642725488.31.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "\"Os atos de caridade purificam até grandes almas\" (Bhagavad Gita 18,05)"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "É com grande alegria e gratidão que recebemos seu interesse em apoiar os projetos significativos da nossa comunidade. Na tradição da Bhakti-yoga, a caridade é considerada uma virtude fundamental, e é através da contribuição amorosa de pessoas que se importam, como você, que podemos expandir nossos esforços para disseminar a cultura de paz, compaixão e sabedoria espiritual."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Como você poderá contribuir?"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Doação única:\nContribua com uma doação única para apoiar projetos específicos (ao lado) nos indicando para qual das áreas de necessidade você gostaria de doar."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Doação recorrente:\nTorne-se um mantenedor regular da comunidade, comprometendo-se com doações mensais que garantem uma base financeira estável para nossos projetos de longo prazo."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Como doar:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "ISKCON de Nova Gokula\nCNPJ 53.327.656/0001-80\nEstrada Abílio José de Almeida, s/n Ribeirão Grande - Pindamonhangaba - SP"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Dados bancários - (001) Banco do Brasil:\nAg. 574-6 C/C 48592-6 ou pix: cnpj 53.327.656/0001-80\nou\nAg. 9794-2 C/C 282-8 ou pix: "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "mailto:financeiro@novagokula.com.br"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "financeiro@novagokula.com.br"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Para devida indentificação de sua doação, favor enviar comprovante bancário para o e-mail acima."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Sua generosidade faz a diferença. Todas as contribuições, independentemente do tamanho, são apreciadas e ajudam a cumprir a missão da nossa comunidade."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Agradecemos profundamente por seu apoio. Que suas contribuições se multipliquem em bênçãos espirituais, paz e alegria."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Com amor e gratidão,\nA administração da Fazenda Nova Gokula"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "hr",
+        "props": {},
+        "children": []
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "CAMPANHA DE ARRECADAÇÃO PARA A CASA ROSA DE NOVA GOKULA"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A Casa Rosa é uma edificação histórica e, agora, é também patrimônio tombado pela prefeitura da cidade de Pindamonhangaba pelo Decreto nº 6.619 de 24/04/2024."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A justificativa é a necessidade de manutenção do prédio que já tem seus quase 30 anos de existência e onde funciona o “Memorial de Prabhupada” com acervo de livros e vídeos, e também onde foram compilados os significados Bhaktivedanta do Srimad-bhagavatam (cantos 10 a 12) por Hridayananda Das Goswami, após a passagem de Srila Prabhupada."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Temos a meta de arrecadar, nesta primeira etapa, de r$12.000,00 para a parte elétrica da casa."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "COMO COLABORAR?"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Envie um valor, a sua escolha, com 8 centavos adicionado ao final para que о financeiro reconheça a doação exclusiva para a Casa Rosa.\nExemplo: r$1.000,08 | r$500,08"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Esta é uma campanha oficial da ISKCON Nova Gokula e os comprovantes de gastos serão devidamente enviados aos colaboradores."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:querodoar.md",
+  "_path": "/querodoar"
+}

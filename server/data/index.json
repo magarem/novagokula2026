@@ -1,0 +1,39 @@
+{
+  "data": {
+    "title": "Página Inicial com Imagem",
+    "description": ""
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "listfiles",
+        "props": {
+          "title": "Pousadas",
+          "section": "content/pousadas",
+          "view": "grid"
+        },
+        "children": []
+      },
+      {
+        "type": "element",
+        "tag": "listfiles",
+        "props": {
+          "title": "Templos",
+          "section": "content/templos",
+          "view": "grid"
+        },
+        "children": []
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:index.md",
+  "_path": "/index"
+}

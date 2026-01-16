@@ -1,0 +1,79 @@
+{
+  "data": {
+    "title": "(Domingos) 22--Kirtan em Samadhi",
+    "description": "Um programa gratuito que acontece todos os domingos das 13h30 às 15h30.",
+    "topimage": null,
+    "images": [
+      "/images/1712165688570.4922.jpg"
+    ],
+    "topimages": []
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "3332212--\"KIRTAN EM SAMADHI\" é um programa gratuito que acontece todos os domingos das 13h30 às 15h30\nNo Samadhi de Srila Prabhupada (ao lado do templo principal)"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Em um auspicioso dia de festival de domingo de Nova Gokula, inauguramos o projeto intitulado: \"KIRTAN EM SAMADHI\""
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "É um convite a todos os visitantes participarem de forma gratuita, com momentos para perguntas, respostas, curiosidades e muita música, que consiste de 2 horas de Kirtan (canto devocional)."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A intenção do projeto é de atrairmos e envolvermos todos os visitantes na prática da consciência de Krishna através do cantar do Mahamantra!"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Graças ao suporte inestimável de Vaikuntha Murti e Gopa Vrinda Pala, a identidade do projeto foi desenvolvida, o sistema de som já está disponível e os músicos à postos. Basta chegarem com suas vozes e corações transbordantes, cantando e entoando os nomes de Krishna!"
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:eventos:samadi.md",
+  "_path": "/eventos/samadi"
+}

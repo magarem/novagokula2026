@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Slideshow",
+    "description": "",
+    "images": [
+      "/images/slideshow/slide10.jpg",
+      "/images/slideshow/slide11.jpg",
+      "/images/slideshow/slide12.jpg",
+      "/images/slideshow/slide13.jpg",
+      "/images/slideshow/slide14.jpg",
+      "/images/slideshow/slide16.jpg",
+      "/images/slideshow/slide17.jpg",
+      "/images/slideshow/slide21.jpg",
+      "/images/slideshow/slide22.jpg",
+      "/images/slideshow/slide23.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": []
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:slideshow.md",
+  "_path": "/slideshow"
+}

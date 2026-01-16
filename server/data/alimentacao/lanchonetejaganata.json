@@ -1,0 +1,106 @@
+{
+  "data": {
+    "title": "Lanchonete Jagannatha",
+    "description": "Sabor aos Pés do Templo",
+    "topimage": null,
+    "images": [
+      "/images/1712173121173.5232.jpg",
+      "/images/1732461622045.471.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Lanchonete Jagannatha: Sabor aos Pés do Templo"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A Lanchonete Jagannatha fica bem próxima ao Templo principal. Mais uma boa opção para se degustar a culinária vegetariana e vegana, com um toque do tempero indiano."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Seja você um devoto ou um visitante, cada visita é uma oportunidade de se conectar com a divindade através da culinária devocional e suas preparações únicas inspiradas na tradição Hare Krishna."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A Lanchonete Jagannatha foi projetada como um espaço acolhedor, onde amigos, familiares e membros da comunidade podem se reunir para desfrutar de momentos especiais após suas práticas espirituais no Templo Principal. Nosso ambiente é uma extensão da atmosfera sagrada, proporcionando um local para a comunhão e alegria."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Localização estratégica ao lado do templo principal"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Saiba mais: "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://www.facebook.com/profile.php?id=100063861511113",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.facebook.com/profile.php?id=100063861511113"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:alimentacao:lanchonetejaganata.md",
+  "_path": "/alimentacao/lanchonetejaganata"
+}

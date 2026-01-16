@@ -1,0 +1,438 @@
+{
+  "data": {
+    "title": "Hospedaria Lótus",
+    "description": "Vivencie uma experiência única na Hospedaria Lótus, um recanto em estilo rural simples e aconchegante. Localizada em meio à exuberância da Mata Atlântica, oferece contato direto com a natureza e os pássaros, em um bioma exclusivo mesmo dentro de Nova Gokula — com total privacidade e, ao mesmo tempo, acesso facilitado à área social e ao templo.",
+    "topimage": "/images/1729883097630.277.jpg",
+    "images": [
+      "/images/1712159580194.7031.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "✨"
+          },
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "HOSPEDARIA LÓTUS"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "✨"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n💫 "
+          },
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "element",
+                "tag": "em",
+                "props": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "“Descanso para o Corpo... Refúgio para a Alma.”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "🌱"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Vivencie uma experiência única na Hospedaria Lótus, um recanto em estilo rural simples e aconchegante. Localizada em meio à exuberância da Mata Atlântica, oferece contato direto com a natureza e os pássaros, em um bioma exclusivo mesmo dentro de Nova Gokula — com total privacidade e, ao mesmo tempo, acesso facilitado à área social e ao templo."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Com apenas 08 suítes, na medida certa, a hospedaria oferece um ambiente tranquilo e familiar, com atendimento acolhedor e personalizado. A baixa densidade de hóspedes garante silêncio e uma experiência profunda de reconexão interior."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Ideal para retiros, workshops, cursos e estadias familiares ou individuais. Sua localização privilegiada proporciona privacidade e fácil acesso a todas as facilidades da comunidade de Nova Gokula."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "🔸 Estrutura e facilidades:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•\t06 suítes “Standard” com 01 cama de casal e 01 de solteiro;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•\t01 suíte “Family” com 01 cama de casal e 03 de solteiro;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•\t01 suíte “Hostel” com 05 camas de solteiro;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•       01 sala (8 mt X 5 mt) para atividades em geral (interações, cursos, etc.);"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•\tEstilo simples e funcional com Wi-Fi, ventilador, roupas de cama e banho inclusas;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•\tEstacionamento disponível;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•\tA apenas 100 metros do templo e área social;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "•\tPreços especiais para grupos e longas estadias;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "🎯"
+          },
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Não inclui café da manhã,"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": " para que você possa organizar sua rotina com flexibilidade."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Política de reservas:"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": " Sinal de 50% no ato da reserva, com cancelamento gratuito até 07 dias antes."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Disponibilidade para Pacotes Temáticos:"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": " Retiros de meditação, yoga, mantra-yoga ou silêncio."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "🌿 Em Nova Gokula, aproveite de atividades transformadoras:\n•\tMantra-yoga e meditação;\n•\tCaminhadas ecológicas;\n•\tTerapias ayurvédicas;\n•\tCulinária indiana lacto-vegetariana com opções veganas;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "💫 "
+          },
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Atividades em Nova Gokula:"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": " Participe de práticas de bem-estar como mantra-yoga, meditação, caminhadas ecológicas e terapias ayurvédicas. Visite o maior templo Hare Krishna da América Latina, com programação litúrgica diária gratuita, e encontre paz e espiritualidade em um ambiente único."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Depoimento:"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "em",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "“A Hospedaria Lótus é um verdadeiro refúgio! A simplicidade e limpeza das suítes, a natureza ao redor e a energia de Nova Gokula tornaram nossa estadia inesquecível.” – Ana C., São Paulo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Reserve agora:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "📍 Veja fotos e detalhes em: "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "http://www.hospedarianovagokula.com",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "www.hospedarianovagokula.com"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "📱 WhatsApp: (12) 98305-3231"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "📧 Atendimento também em espanhol e inglês."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "OBS.:"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": " Aproveite preços especiais para grupos e estadias prolongadas!"
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:hospedagem:hospedarialotus.md",
+  "_path": "/hospedagem/hospedarialotus"
+}

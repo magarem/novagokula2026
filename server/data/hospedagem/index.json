@@ -1,0 +1,162 @@
+{
+  "data": {
+    "title": "Hospedagem",
+    "description": ""
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "listfiles",
+        "props": {
+          "title": "",
+          "section": "content/hospedagem",
+          "view": "grid"
+        },
+        "children": []
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Reservas pelo whatsapp 12 99680-1318\n"
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://wa.me/5512996801318",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://wa.me/5512996801318"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "REGRAS DE CONDUTA CONSCIENTE NA FAZENDA NOVA GOKULA:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Considere que somos uma comunidade religiosa dedicada a disciplina e prática do aprimoramento espiritual e do respeito mútuo. Portanto, dentro dos quartos ou na área social, pedimos que:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Pratique a ahimsa (não violência contra os animais) não trazendo alimentos que possam conter em seus ingredientes carne, peixe ou ovos;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Pratique a limpeza não fazendo uso de cigarros, bebidas alcoólicas e substâncias tóxicas como cannabis e/ou enteógenos. Disponibilizamos um processo diário dedicado a elevação natural da consciência através do canto de mantras, aulas das escrituras, bem como da prática da yoga devocional;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Procure abster-se do intercurso sexual durante sua estadia, em troca dos benefícios da disciplina espiritual que cultivamos;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Pratique o recato usando trajes de banho somente no leito dos rios e mantendo o decoro nas áreas sociais;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Armas brancas como estilingue ou faca, assim como a prática de jogos de aposta não são permitidos dentro da comunidade;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Como estamos dentro de uma APA-Área de proteção ambiental, pedimos que respeitem a natureza não levando plantas ou flores para casa, não fazendo fogueiras e não usando shampoo ou sabonetes dentro dos rios."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Desejamos a todos uma ótima estadia.\nHare Krishna!"
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:hospedagem:index.md",
+  "_path": "/hospedagem"
+}

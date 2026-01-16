@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "",
+    "description": "",
+    "full_banner_middle": {
+      "imageUrl": "/images/banner1.png",
+      "link": "sobre/prabhupada",
+      "altText": "Fotografia panorâmica de uma paisagem natural durante o pôr do sol"
+    }
+  },
+  "body": {
+    "type": "root",
+    "children": []
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:home:banner1.md",
+  "_path": "/home/banner1"
+}

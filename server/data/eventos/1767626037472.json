@@ -1,0 +1,266 @@
+{
+  "data": {
+    "title": "Àtmaval – O Festival da Alma",
+    "description": "Retiro de Carnaval no Ashram Pranidhana – Nova Gokula   📅 De 14 a 17 de fevereiro",
+    "topimage": null,
+    "images": [
+      "/images/1767819806406.7383.jpg",
+      "/images/1767819829455.9004.jpg",
+      "/images/1767819850124.221.jpg",
+      "/images/1767819873229.873.jpg",
+      "/images/1767819893805.155.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Retiro de Carnaval no Ashram Pranidhana – Nova Gokula"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n📅 De 14 a 17 de fevereiro"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Conduzido pela professora Lilarani Lerrita, com mais de 30 anos de experiência em Yoga."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "🌱 Uma vivência completa de espiritualidade e autoconhecimento:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🏡 Hospedagem no Ashram"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🧘 Práticas de Yoga"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🕉️ Meditação – estudos sobre por que meditar faz bem à saúde"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n📖 Bhagavad Gita e Yoga Sutras"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🙏 Sadhana + atividades no templo (Kirtan)"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🌿 Passeios na natureza"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n☀️ Café da manhã da Confraria Vegana"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🍲 Jantar leve no Pranidhana"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🍽️ Outras refeições opcionais e à parte"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "💰 Investimento: R$1.380"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n⚡ Lote promocional até 15 de janeiro"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n🔑 Reserva com 50% do valor"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n⚠️ Vagas limitadas"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "✨ Celebre o Carnaval como um festival da alma."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "📲 Garanta sua vaga no Àtmaval e viva essa experiência transformadora!"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Informações e reservas no whatsapp:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n11 98884-4079"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://wa.me/5511988844079",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://wa.me/5511988844079"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:eventos:1767626037472.md",
+  "_path": "/eventos/1767626037472"
+}

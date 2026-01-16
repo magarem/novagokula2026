@@ -1,0 +1,114 @@
+{
+  "data": {
+    "title": "Hari Shopping",
+    "description": "As lojas do mini shopping expõem variadas opções de vestuário, artigos, artesanato e decoração, além de bistrô com livraria e sala de massagens",
+    "topimage": "/images/1729786167671.526.jpg",
+    "images": [
+      "/images/1729797710113.5754.jpg",
+      "/images/1729797739570.6248.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Dentre os vários atrativos da Fazenda Nova Gokula, ao lado da recepção, você encontra as lojas do mini shopping que expõem variadas opções de vestuário, artigos, artesanato e decoração:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n-\"Presentes Inigualáveis\""
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n-\"Tulasi\""
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n-\"Mandala Mística\""
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Além das lojas, o Bistrô e Livraria Gokula oferece alimentação lactovegetariana e vegana entre diversas opções de livros de bhakti-yoga e autoconhecimento."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "A \"sala de massagens\" oferece terapias ayurvédicas como cone hindu, abhyanga e reiki, dentre outras opções.\nÉ necessário agendar o serviço previamente com a terapeuta Yajna Renata através do whatsapp: 12 99789-1805 "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://wa.me/5512997891805",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://wa.me/5512997891805"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Na parte de trás do prédio, você também encontra os banheiros masculino e feminino."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:templos:1729785127222.md",
+  "_path": "/templos/1729785127222"
+}

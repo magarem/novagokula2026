@@ -1,0 +1,115 @@
+{
+  "data": {
+    "title": "BBT - The Bhaktivedanta Book Trust ",
+    "description": "É a maior editora mundial de textos clássicos vaishnavas e obras contemporâneas sobre a filosofia, teologia e cultura do bhakti-yoga.",
+    "topimages": [
+      "/images/1712155166044.6702.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "BBT - The Bhaktivedanta Book Trust (BBT) é a maior editora mundial de textos clássicos vaishnavas e obras contemporâneas sobre a filosofia, teologia e cultura do bhakti-yoga."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Suas publicações incluem escrituras tradicionais e livros comentados que introduzem ou aprofundam os grandes clássicos. Os títulos da BBT variam em complexidade, desde volumes breves e introdutórios até estudos resumidos e traduções em vários volumes com significados comentados. Nossas publicações mais aclamadas são Bhagavad-gita Como Ele É, Srimad-Bhagavatam e Chaitanya-charitamrita."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Fundada em 1972, na cidade de Los Angeles, a BBT foi instituída para a publicação dos livros de Srila Prabhupada e obras conforme os seus ensinamentos. Em pouco mais de duas décadas de atividades, a BBT já era considerada a maior editora e distribuidora de livros sobre filosofia, religião e cultura védica no mundo inteiro, com obras publicadas em mais de 90 idiomas."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Seja qual for a língua, as publicações da BBT seguem um mesmo rigoroso padrão de tradução e revisão, que permite o máximo de fidelidade aos originais, com qualidade reconhecida por professores e estudantes da cultura indiana nas mais renomadas universidades do mundo.\nPara distribuir suas obras, além de canais regulares como livrarias e lojas virtuais, a BBT conta com a organizada estrutura da Sociedade Internacional para a Consciência de Krishna (ISKCON), com centenas de centros espalhados pelo mundo. Além da venda dos títulos, todo centro da ISKCON mantém programas regulares de estudo dos principais livros de Srila Prabhupada."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "No Brasil, a BBT foi instituída em 1975, tendo como primeira publicação a revista Volta ao Supremo. Logo nas primeiras edições, a revista já alcançava tiragens médias de 100 mil exemplares, sendo uma das pioneiras no país a atingir essa marca. O primeiro livro lançado foi \"Além do Nascimento e da Morte\", logo seguido pelo best-seller \"Bhagavad-gita Como Ele É\"."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Hoje são quase 100 títulos, todos com uma característica em comum: serem instrumentos para acessarmos a dimensão mais profunda de quem somos, tornando a vida mais satisfatória e repleta de significado."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Acesse a loja virtual: "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://www.sankirtana.com.br/",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.sankirtana.com.br/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:livros:1712157031610.md",
+  "_path": "/livros/1712157031610"
+}

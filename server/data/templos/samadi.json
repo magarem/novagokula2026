@@ -1,0 +1,80 @@
+{
+  "data": {
+    "title": "Samadhi de Prabhupada",
+    "description": "O Samadhi de Prabhupada é um memorial em honra a Srila Prabhupada. Um local sagrado e inspirador. Dedicado ao legado espiritual de A.C. Bhaktivedanta Swami Prabhupada, o fundador do movimento Hare Krishna.",
+    "topimage": "",
+    "images": [
+      "/images/1732365134651.528.jpg",
+      "/images/1712164392636.3298.jpg"
+    ],
+    "topimages": []
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O Samadhi de Prabhupada é um memorial em honra a A.C. Bhaktivedanta Swami Prabhupada. Um local sagrado e inspirador. Dedicado ao legado espiritual de Sua Divina Graça Srila Prabhupada, o fundador do movimento Hare Krishna."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Construído com uma arquitetura majestosa e ornamentos que refletem a riqueza espiritual da tradição vaishnava da escola bhaktivedanta, o Samadhi de Prabhupada é um lugar onde os devotos se reúnem para meditar, cantar mantras e oferecer suas orações."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Na cerimônia de sua inauguração, em 1987, foi instalada a Deidade de Prabhupada e depositada em suas fundações 2 relíquias do santo vaishnava: uma flor colhida da guirlanda e um pedaço de Sua vestimenta no momento de sua partida deste mundo."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "O ambiente tranquilo e reverente do templo cria uma atmosfera propícia para a busca da consciência espiritual e do desenvolvimento da devoção. Este local não é apenas um marco arquitetônico, mas também um farol de ensinamentos espirituais que orientam os praticantes Hare Krishna em sua jornada rumo à iluminação e conexão mais profunda com o supremo."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Arati de Prabhupada: Sua adoração acontece diariamente durante o Mangala arati que inicia às 4h15 no Templo do Samadhi, onde oferecemos preces em forma de canção ao mestre fundador da ISKCON e sua sucessão discipular de mestres predecessores que dedicaram suas vidas a propagação da filosofia bhaktivedanta."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:templos:samadi.md",
+  "_path": "/templos/samadi"
+}

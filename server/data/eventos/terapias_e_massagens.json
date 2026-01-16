@@ -1,0 +1,125 @@
+{
+  "data": {
+    "title": "Terapias e Massagens Ayurvédicas",
+    "description": "Terapias revitalizantes: \"Jornada para o Equilíbrio Interior\" Com Yajna Renata (massoterapeuta, reikiana e terapeuta ayurvédica)",
+    "topimage": null,
+    "images": [
+      "/images/1735949467845.2422.jpg",
+      "/images/1735949500526.3752.jpg",
+      "/images/1735949535101.5127.jpg",
+      "/images/1735949563680.7507.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Terapias revitalizantes: \"Jornada para o Equilíbrio Interior\"\nCom Yajna Renata (massoterapeuta, reikiana e terapeuta ayurvédica)"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Preparamos pra vc um pacote de terapias para feriados e/ou finais de semana!\nSugerimos práticas eficazes que oferecem benefícios terapêuticos completos!"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Dia 1 - Alinhando os Corpos. Desfrute do início da sua jornada com uma sessão de Cone Hindu, uma prática que promove a harmonia física e mental;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Dia 2 - Liberando os Canais Energéticos. Experimente a essência da energia vital com uma experiência transformadora de Abhyanga, massagem Ayurvédica, que libera os canais de energia, proporcionando um renovado senso de vitalidade;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Dia 3 - Potencializando o Equilíbrio. Termine seu retiro com chave de ouro, entregando-se à serenidade do Reiki. Uma prática que potencializa o equilíbrio interno, deixando-o(a) revigorado e com energia positiva;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "As terapias são uma sugestão e podem ser realizadas de forma sequencial ou avulsa;"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Reserve o seu lugar nesta jornada única e permita-se vivenciar um recomeço extraordinário!"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Em busca do equilíbrio interior, as terapias corporais surgem como ferramentas poderosas para nosso autodesenvolvimento. Elas não apenas promovem a cura e fortalecem corpo e mente, mas também nos capacitam com discernimento para superar os desafios que a vida nos apresenta. Essenciais para o crescimento pessoal, oferecem um caminho rumo à paz interior, felicidade e à realização."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "É necessário agendar previamente com Yajna Renata através do whatsapp:\n12 99789-1805"
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:eventos:terapias_e_massagens.md",
+  "_path": "/eventos/terapias_e_massagens"
+}

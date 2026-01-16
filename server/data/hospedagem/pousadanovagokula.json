@@ -1,0 +1,151 @@
+{
+  "data": {
+    "title": "Pousada Nova Gokula",
+    "description": "- Ladeada por rio de águas cristalinas, muito verde e jardins; - Ambiente confortável e acolhedor; - Cozinha à disposição dos hóspedes; - Possui Wi-Fi; - Ventilador; - Estacionamento; - Roupa de cama e banho inclusas; - 3 Suites com capacidade para até 12 pessoas; - Localizado a 350m da área social da fazenda; - Preços especiais para grupos e longas estadias. - Não inclui café da manhã.",
+    "topimage": "/images/1730245922431.1257.jpg",
+    "images": [
+      "/images/1712160902016.8179.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "ul",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Ladeada por rio de águas cristalinas, muito verde e jardins;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Ambiente confortável e acolhedor;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Cozinha à disposição dos hóspedes;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Possui Wi-Fi;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Ventilador;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Estacionamento;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Roupa de cama e banho inclusas;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "3 Suites com capacidade para até 12 pessoas;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Localizado a 350m da área social da fazenda;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Preços especiais para grupos e longas estadias."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Não inclui café da manhã."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:hospedagem:pousadanovagokula.md",
+  "_path": "/hospedagem/pousadanovagokula"
+}

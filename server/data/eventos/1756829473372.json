@@ -1,0 +1,78 @@
+{
+  "data": {
+    "title": "LAPIDAR - Bhakti-yoga para iniciantes",
+    "description": "Grupo de estudos virtual semanal. Nova Gokula convida você para o encontro Lapidar – Despertar da Alma 💎 Um espaço online de estudo, reflexão e conexão espiritual.",
+    "topimage": null,
+    "images": [
+      "/images/1756829530264.13.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "LAPIDAR\nBhakti-yoga para iniciantes\nGrupo de estudos virtual semanal"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Nova Gokula convida você para o encontro Lapidar – Despertar da Alma 💎\nUm espaço online de estudo, reflexão e conexão espiritual."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "📖 Tema: Propósito da vida e sabedoria da Bhagavad-gita\n💻 Online pelo Google Meet\n📅 Todas as quintas-feiras\n⏰ Das 20h às 21h\n🌺 Com Lilavati Devi Dasi (CMS)"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Venha compartilhar esse momento de autoconhecimento e inspiração.\nO encontro é aberto a todos 🌿"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Inscreva-se neste whatsapp: (92) 99260-8355"
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:eventos:1756829473372.md",
+  "_path": "/eventos/1756829473372"
+}

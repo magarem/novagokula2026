@@ -1,0 +1,103 @@
+{
+  "data": {
+    "title": "Veda Base",
+    "description": "Vedabase.io é uma ferramenta de pesquisa multilíngue gratuita e online, projetada para disponibilizar a todos os interessados os ensinamentos de Sua Divina Graça A.C. Bhaktivedanta Swami Prabhupada. Conheça o conteúdo do Vedabase. ",
+    "topimages": [
+      "/images/1712157426301.8772.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Vedabase.io é uma ferramenta de pesquisa multilíngue gratuita e online, projetada para disponibilizar a todos os interessados os ensinamentos de Sua Divina Graça A.C. Bhaktivedanta Swami Prabhupada."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Conheça as ferramentas do Vedabase:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Na visualização bilíngue, você pode ver o texto em dois idiomas lado a lado, sendo um bom recurso para aprendizado de uma segunda língua ou para comparar uma tradução com o original em inglês.\nA visualização avançada permite que você veja um capítulo inteiro em uma página, com a opção de ocultar ou mostrar diferentes elementos do texto."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Sistema de pesquisa avançado, com vários filtros e opções, para procurar termos nos textos de toda a biblioteca.\nCriando um login e senha, seu perfil de usuário mantém todas as suas anotações, marcadores e histórico de leitura em um só lugar."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Novos livros são adicionados frequentemente."
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\nAcesse aqui: "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "props": {
+              "href": "https://vedabase.io/pt-br/",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "https://vedabase.io/pt-br/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:livros:VedaBase.md",
+  "_path": "/livros/VedaBase"
+}

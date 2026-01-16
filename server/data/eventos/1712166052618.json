@@ -1,0 +1,275 @@
+{
+  "data": {
+    "title": "(Diário) Programação do Templo",
+    "description": "Os cerimoniais do templo são abertos para visitação. Venha conhecer!",
+    "topimage": null,
+    "images": [
+      "/images/1727107197827.5825.jpg"
+    ]
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "PROGRAMAÇÃO DIÁRIA DO TEMPLO DE RADHA-GOKULANANDA"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "4h15 - Cerimônia Mangala no samadhi (canto de mantras);"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "4h30 - Cerimônia Mangala no templo (canto de mantras);"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "7h30 - Cerimônia Govinda e Guru puja (canto de mantras e homenagem ao mestre espiritual);"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "8h - Aula de filosofia védica (Srimad-bhagavatam);"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "12h30 - Cerimônia para oferenda de elementos auspiciosos às Deidades;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "16h - Cerimônia para oferenda de elementos auspiciosos às Deidades;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "18h - Cerimônia Goura Arati (canto de mantras);"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "18h30 - Aula de filosofia védica (Bhagavad-Gita);"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "20h - Cerimônia final do dia para oferenda de elementos auspiciosos às Deidades."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Etiquetas a serem seguidas:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Tirar os sapatos ao entrar no Templo;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Ter decoro nas vestimentas e adequação no comportamento;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Respeito à diversidade religiosa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "No Templo Radha-gokulananda, buscamos criar um ambiente onde a espiritualidade floresce e a comunidade se une em amor e serviço."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Nossas atividades incluem:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "props": {},
+        "children": [
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Cerimoniais: participação nas adorações rituais diárias, onde oferecemos nossa devoção ao altar de Radha-gokulananda com cânticos e oferendas;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Palestras diárias: uma oportunidade para aprender e aprofundar a compreensão da filosofia Hare Krishna e os ensinamentos espirituais;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Festivais: celebrações de datas do calendário que destacam momentos importantes da tradição Hare Krishna;"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "props": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Serviço comunitário: participação ativa em iniciativas que refletem os valores de compaixão, serviço desinteressado e amor fraternal."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Venha nos visitar!"
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:eventos:1712166052618.md",
+  "_path": "/eventos/1712166052618"
+}

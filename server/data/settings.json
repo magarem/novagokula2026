@@ -1,0 +1,179 @@
+{
+  "data": {
+    "title": "",
+    "description": "",
+    "topbar": {
+      "logo": {
+        "img": "/images/logo_novo.png",
+        "link": "/"
+      },
+      "menu": [
+        {
+          "name": "Sobre",
+          "link": "",
+          "sub": [
+            {
+              "name": "Visitação",
+              "link": "sobre/visitacao"
+            },
+            {
+              "name": "Quem Somos",
+              "link": "sobre/about"
+            },
+            {
+              "name": "Nossa História",
+              "link": "sobre/historia"
+            },
+            {
+              "name": "O Fundador",
+              "link": "sobre/acharyadeva"
+            },
+            {
+              "name": "Srila Prabhupada",
+              "link": "sobre/prabhupada"
+            },
+            {
+              "name": "A ISKCON",
+              "link": "sobre/instituicao"
+            },
+            {
+              "name": "O Mantra",
+              "link": "sobre/mahamantra"
+            },
+            {
+              "name": "Quem é Krishna?",
+              "link": "sobre/1712260272015"
+            },
+            {
+              "name": "A Filosofia",
+              "link": "sobre/filosofia"
+            },
+            {
+              "name": "KRISHNA WEST",
+              "link": "sobre/1727622885020"
+            },
+            {
+              "name": "Os Livros",
+              "link": "livros"
+            },
+            {
+              "name": "Revista 'Volta ao Supremo'",
+              "link": "sobre/1712157400913"
+            },
+            {
+              "name": "Como se tornar um devoto de Krishna?",
+              "link": "eventos/1743725707651"
+            }
+          ]
+        },
+        {
+          "name": "Atrativos",
+          "link": "",
+          "sub": [
+            {
+              "name": "Mapa de Pontos Turísticos",
+              "link": "sobre/conheca_a_fazenda"
+            },
+            {
+              "name": "Os Templos",
+              "link": "templos"
+            },
+            {
+              "name": "Hospedagem",
+              "link": "hospedagem"
+            },
+            {
+              "name": "Alimentação",
+              "link": "alimentacao"
+            },
+            {
+              "name": "Área de Soltura do IBAMA",
+              "link": "sobre/1712257273435"
+            },
+            {
+              "name": "Memorial de Prabhupada",
+              "link": "sobre/1712258733242"
+            },
+            {
+              "name": "Hari Shopping",
+              "link": "templos/1729785127222"
+            },
+            {
+              "name": "Terapias",
+              "link": "eventos/terapias_e_massagens"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "link": "eventos"
+        },
+        {
+          "name": "Como Chegar",
+          "link": "comochegar"
+        },
+        {
+          "name": "Contato",
+          "link": "contact"
+        },
+        {
+          "name": "Quero doar",
+          "link": "querodoar",
+          "type": "button"
+        }
+      ]
+    },
+    "footer": {
+      "box1": {
+        "title": "Srila Prabhupada",
+        "img": "/img/vedabase-logo.svg",
+        "body": "Sua Divina Graça A.C. Bhaktivedanta Swami Prabhupada Mestre Fundador da Sociedade Internacional para a Consciência de Krishna",
+        "link": {
+          "label": "Saiba mais",
+          "target": "sobre/prabhupada"
+        }
+      },
+      "box2": {
+        "title": "Mídias sociais",
+        "body": "Conecte-se conosco nas redes sociais para as últimas novidades, eventos exclusivos e inspiração. Siga-nos e faça parte de nossa comunidade. Juntos, construímos conexões fortes e significativas.",
+        "links": {
+          "facebook": "https://www.facebook.com/FazendaNovaGokula",
+          "instagram": "https://www.instagram.com/novagokula/",
+          "youtube": "https://www.youtube.com/c/FazendaNovaGokulaNG",
+          "tiktok": "https://www.tiktok.com/@novagokula"
+        }
+      },
+      "box3": {
+        "title": "Endereço",
+        "body": "Estrada Abílio José de Almeida S/N<br/>Bairro do Riberão Grande<br/>Pindamonhangaba/SP<br/>Brasil",
+        "link": {
+          "label": "Como chegar",
+          "target": "/comochegar"
+        }
+      },
+      "box4": {
+        "title": "Contato",
+        "body": "Entre em contato conosco para esclarecer dúvidas ou enviar sugestões.",
+        "link": {
+          "label": "Entre em contato",
+          "target": "contact"
+        }
+      },
+      "copyright": {
+        "body": "© Copyright 2026 | Produzido pela Magaweb"
+      }
+    }
+  },
+  "body": {
+    "type": "root",
+    "children": []
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:settings.md",
+  "_path": "/settings"
+}

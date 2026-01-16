@@ -1,0 +1,161 @@
+{
+  "data": {
+    "title": "(Domingos) Festival de Domingo na Fazenda Nova Gokula",
+    "description": "Passe o dia com os devotos de Krishna! Todos as domingos das 6h30 às 18h.",
+    "topimage": "",
+    "images": [
+      "/images/eventos/festivaldedomingo.jpeg"
+    ],
+    "topimages": []
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Passe o dia com os devotos de Krishna!\nTodos as domingos das 6h30 às 18h"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Gostaria de participar de um domingo recheado de filosofia, alimentação consciente e programas espirituais na associação dos devotos Krishna?"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Programação Especial:"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "6h30 - Vivência com “Meditação Mântrica - Japa Yoga”;"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n7h00 - Bhajan (cânticos devocionais introspectivos);"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n7h30 - Cerimônia Govinda e Homenagem ao Mestre, onde cantamos para Krishna e nosso Guru Srila Prabhupada;"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n8h00 - Palestra e Roda de Conversa sobre a filosofia do Srimad-Bhagavatam (escritura de mantras e revelações dos antigos sábios);"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n9h00 - Desjejum Comunitário - traga sua oferenda vegana / vegetariana ou simplesmente compareça e congregue conosco;"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n13h30 às 15h30 - “Kirtan em Samadhi”. No Samadhi de Srila Prabhupada (ao lado do templo principal);"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Nas horas livres, você poderá almoçar em nossos restaurantes e lanchonetes que oferecem iguarias do cardápio vegetariano e vegano, como a tradicional coxinha de jaca."
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Nas lojas do mini shopping você encontra variadas opções de vestuário, artigos, artesanato e decoração. Em um dia de sol, poderá optar por um refrescante banho de rio nas águas cristalinas do Yamuna!"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Contato para maiores informações com:\nRadha Damodara, Krishna Balarama ou Krishna Kirtan:"
+          },
+          {
+            "type": "element",
+            "tag": "br",
+            "props": {},
+            "children": []
+          },
+          {
+            "type": "text",
+            "value": "\n12 98209-8300, 11 98187-0617, 12 98306-0318"
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:eventos:festivaldedomingo.md",
+  "_path": "/eventos/festivaldedomingo"
+}

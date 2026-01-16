@@ -1,0 +1,35 @@
+{
+  "data": {
+    "title": "Conheça nossa Essência",
+    "description": "Mergulhe em uma jornada de autoconhecimento e bem-estar. Nossas práticas unem a sabedoria ancestral com a necessidade moderna de equilíbrio. Assista ao vídeo ao lado para entender como trabalhamos.",
+    "videoUrl": "https://www.youtube.com/watch?v=Ir6E7wEcJfE",
+    "buttonText": "Saiba Mais",
+    "buttonLink": "/sobre/about",
+    "topimages": [],
+    "images": []
+  },
+  "body": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tag": "p",
+        "props": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "22Localizada aos pés da Serra da Mantiqueira, em Pindamonhangaba, a Fazenda Nova Gokula cultiva, há 47 anos, valores de vida simples e uma cultura espiritual baseada nos antigos ensinamentos dos Vedas. Iniciada em 1978, a maior comunidade Hare Krishna da América Latina pertence à Sociedade Internacional para a Consciência de Krishna (ISKCON), conhecida como a maior escola de filosofia védica criada no ocidente. Foi fundada em 1966, em Nova Iorque  por Swami Prabhupada, que trouxe esta ciência conhecida antes apenas por yogis e santos do oriente."
+          }
+        ]
+      }
+    ]
+  },
+  "toc": {
+    "title": "",
+    "searchDepth": 2,
+    "depth": 2,
+    "links": []
+  },
+  "_id": "content:novagokula:home:bemvindo.md",
+  "_path": "/home/bemvindo"
+}
