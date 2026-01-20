@@ -6,13 +6,15 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "clean": "rm -rf .nuxt .output dist node_modules/.cache"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.1.0",
     "@nuxt/content": "^3.10.0",
     "@primeuix/themes": "^2.0.2",
     "@tailwindcss/vite": "^4.1.18",
+    "axios": "^1.13.2",
     "better-sqlite3": "^12.5.0",
     "marked": "^17.0.1",
     "nuxt": "^4.2.2",

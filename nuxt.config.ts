@@ -6,7 +6,6 @@ import path from 'node:path'
 
 // CONSTANTE PARA O CAMINHO ABSOLUTO
 // Isso garante que tanto o driver 'content' quanto o driver interno do Nuxt usem a mesma pasta
-const CONTENT_PATH = '/Users/marceloamagalhaes/desenv/apps/storage/novagokula/content';
 
 export default defineNuxtConfig({
   runtimeConfig: {
@@ -16,6 +15,7 @@ export default defineNuxtConfig({
 
     // 2. Chaves Públicas (Client-side)
     public: {
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL,
       siteName: 'novagokula',
       uploadPath: process.env.NUXT_PUBLIC_UPLOAD_PATH || 'public/images'
     }
