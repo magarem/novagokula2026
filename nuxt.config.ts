@@ -21,36 +21,6 @@ export default defineNuxtConfig({
     }
   },
 
- nitro: {
-    preset: 'node-server',          // ideal pro seu VPS (roda com node .output/server/index.mjs)
-    
-    // Ativa cache persistente no filesystem (importante no VPS!)
-    storage: {
-      cache: {
-        driver: 'fs',
-        base: './.data/cache'         // pasta que persiste entre restarts
-      }
-    }
-  },
-
-  routeRules: {
-    // Páginas fixas → gera no build e serve estaticamente pra sempre
-    '/':                        { prerender: true },
-
-    // Todo o conteúdo dinâmico do @nuxt/content → SWR com TTL razoável
-    // Serve cache → regenera em background quando expirar
-    '/**':                      { swr: 600 },     // 10 minutos (muito bom pra começar)
-    // Exemplos mais específicos (ajuste conforme seu site):
-    // '/blog/**':              { swr: 3600 },   // 1 hora
-    // '/eventos/**':           { swr: 1800 },   // 30 min
-    // '/kirtans/**':           { swr: true },   // SWR sem TTL fixo (até próximo restart)
-
-    // Áreas admin / preview / API → sempre fresco, sem cache
-    '/admin/**':                { ssr: true, cache: false },
-    '/api/**':                  { cache: false },
-    '/preview/**':              { ssr: true, cache: false }
-  },
-
   // Ajuda a extrair payloads e reduzir tamanho
   experimental: {
     payloadExtraction: true
