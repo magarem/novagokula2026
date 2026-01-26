@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     // 1. Chaves Privadas (Server-side)
     storagePath: process.env.STORAGE_PATH,
     jwtSecret: process.env.JWT_SECRET || 'chave-secreta-padrao',
-
+    siteId: process.env.NUXT_SITE_ID || '',
     // 2. Chaves Públicas (Client-side)
     public: {
       siteUrl: process.env.NUXT_PUBLIC_SITE_URL,
@@ -27,12 +27,32 @@ export default defineNuxtConfig({
   },
 
 
-  css: ['./app/assets/css/main.css', '@fortawesome/fontawesome-free/css/all.css'],
-  
+  css: [
+    'primeicons/primeicons.css',
+    './app/assets/css/main.css', 
+    '@fortawesome/fontawesome-free/css/all.css'
+  ],  
   modules: [
     '@nuxt/content',
-    '@primevue/nuxt-module'
+    '@primevue/nuxt-module',
+    '@nuxtjs/seo'
   ],
+
+ // --- CONFIGURAÇÃO GLOBAL DO SITE (A Fonte da Verdade) ---
+  site: {
+    url: 'https://www.novagokula.com.br',
+    name: 'Nova Gokula',
+    description: 'A maior comunidade rural Hare Krishna da América Latina.',
+    defaultLocale: 'pt-BR', // Importante para o Google saber o idioma
+    indexable: true, // Em produção é true, em dev/staging pode ser false
+  },
+  robots: {
+    // Garante que o sitemap esteja listado no robots.txt
+    sitemap: '/sitemap.xml' 
+  },
+
+  // Ativa o inspector para você debugar SEO em desenvolvimento
+  devtools: { enabled: true },
   
   primevue: {
       options: {

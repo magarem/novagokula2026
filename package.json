@@ -14,13 +14,17 @@
     "@nuxt/content": "^3.11.0",
     "@primeuix/themes": "^2.0.2",
     "@tailwindcss/vite": "^4.1.18",
+    "@vueuse/motion": "^3.0.3",
     "better-sqlite3": "^12.5.0",
+    "daisyui": "^5.5.14",
     "marked": "^17.0.1",
     "nuxt": "^4.2.2",
+    "primeicons": "^7.0.0",
     "primevue": "^4.5.4",
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "@nuxtjs/seo": "^3.3.0",
     "@primevue/nuxt-module": "^4.5.4",
     "@tailwindcss/typography": "^0.5.19",
     "@types/node": "^25.0.6"
