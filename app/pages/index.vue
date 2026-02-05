@@ -17,7 +17,7 @@
       titleColor="text-[#421406]"
     >
 
-    <ListFiles
+    <Listfiles
       class="mb-25"
       card_width = "100px"
       :limit="4"
@@ -41,4 +41,5 @@ import CardHorizontalVideo from "~/components/content/CardHorizontalVideo.vue";
 import Banner from "~/components/content/Banner.vue";
 import Wrapper from "~/components/content/Wrapper.vue";
 import Bemvindo from "~/components/Bemvindo.vue";
+import Listfiles from "~/components/content/Listfiles/index.vue";
 </script>
