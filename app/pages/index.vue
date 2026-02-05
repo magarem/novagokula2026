@@ -41,5 +41,4 @@ import CardHorizontalVideo from "~/components/content/CardHorizontalVideo.vue";
 import Banner from "~/components/content/Banner.vue";
 import Wrapper from "~/components/content/Wrapper.vue";
 import Bemvindo from "~/components/Bemvindo.vue";
-import ListFiles from "~/components/content/ListFiles/index.vue";
 </script>
